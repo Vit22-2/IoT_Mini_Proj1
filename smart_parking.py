@@ -11,11 +11,11 @@ import gc
 import ssl
 
 # ---------------- CONFIG ----------------
-WIFI_SSID = "Robotic WIFI"
-WIFI_PASS = "rbtWIFI@2025"
+WIFI_SSID = " "
+WIFI_PASS = " "
 
-TELEGRAM_BOT_TOKEN = "8360114715:AAE1_sKMwOBkY01ynu2fvKFpAvxyvDWeK5o"
-TELEGRAM_CHAT_ID = "1128192910"
+TELEGRAM_BOT_TOKEN = " "
+TELEGRAM_CHAT_ID = " "
 
 TRIG_PIN = 27           # Ultrasonic TRIG
 ECHO_PIN = 26           # Ultrasonic ECHO
@@ -516,5 +516,6 @@ except Exception as e:
     try: lcd_show("Error", "") 
     except: pass
     raise
+
 
 
