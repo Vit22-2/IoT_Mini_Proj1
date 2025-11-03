@@ -50,3 +50,4 @@
   <img width="1308" height="829" alt="Screenshot 2025-10-14 114052" src="https://github.com/user-attachments/assets/a715ee94-cc04-4efe-b4fc-8bbbb5a51e82" />
 
 ## Demo Video
+https://www.youtube.com/watch?v=LNu0wCuQDmE    
